@@ -1,0 +1,13 @@
+{
+    "bot_name": "Jerry",
+    "developers": ["XiaoXi_TW"],
+    "api_key": "",
+    "bot_token": "",
+    "prefix": "p!",
+    "log_channel": 0,
+    "channels": [{
+        "channel_id": "",
+        "channel_type": ""
+    }],
+    "blocked_channels": []
+}
